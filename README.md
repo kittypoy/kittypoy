@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 --><a href="https://github.com/devxb/gitanimals">
 <img src="https://render.gitanimals.org/farms/{kittypoy}"/>
 </a>
+
+![snake github contribution grid snake animation](https://raw.githubusercontent.com/kittypoy/kittypoy/output/github-contribution-grid-snake.svg)
