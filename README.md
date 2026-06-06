@@ -1,4 +1,6 @@
 ## 👋
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dba012ea-6c57-4198-aca4-9c9a7e74400e" />
+
                             
 ```
 ▗▖ ▗▖▗▄▄▄▖    ▗▄▄▄▖▗▖  ▗▖     ▗▄▄▖▗▄▄▄▖ ▗▄▖ ▗▖  ▗▖
