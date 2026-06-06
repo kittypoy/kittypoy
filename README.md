@@ -1,7 +1,5 @@
 ## 👋
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dba012ea-6c57-4198-aca4-9c9a7e74400e" />
-
-                            
+      
 ```
 ▗▖ ▗▖▗▄▄▄▖    ▗▄▄▄▖▗▖  ▗▖     ▗▄▄▖▗▄▄▄▖ ▗▄▖ ▗▖  ▗▖
 ▐▌ ▐▌  █        █  ▐▛▚▞▜▌    ▐▌     █  ▐▌ ▐▌▐▛▚▖▐▌
@@ -23,7 +21,9 @@
                                                                  
                                                   
 ```
-                                              
+    <img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/dba012ea-6c57-4198-aca4-9c9a7e74400e" />
+
+                                                                
 <!--
 **kittypoy/kittypoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
